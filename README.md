@@ -1,1 +1,0 @@
-# somemivix.github.io
