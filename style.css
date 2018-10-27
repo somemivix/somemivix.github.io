@@ -22,7 +22,7 @@ html, body {
   background-color: lightblue;
   
   max-width: 50%;
-  display: 
+  display: flex;
   flex-direction: row;
   height: 80%;
 }
