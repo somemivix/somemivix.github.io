@@ -43,10 +43,10 @@ html, body {
        justify-content: center;
 }
 
-.flex container {
- display:flex
- flex-direction: column
- justify content: flex end
+.flex-container {
+    display:flex
+    flex-direction: column
+    justify content: flex-end
 }
 
 .profile-picture {
