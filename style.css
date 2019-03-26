@@ -20,6 +20,7 @@ html, body {
 	order: 1;
 	display: flex;
 	background-color: chocolate;
+	border:radius
 }
 
 .flex-container {
