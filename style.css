@@ -28,7 +28,7 @@ html, body {
 	display: flex;
 }
 
-.wrapper {
+.body {
 	background-color: lightblue;
 	max-width: 100%;
 	display: flex;
