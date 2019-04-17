@@ -26,14 +26,6 @@ html, body {
        height: 80%;
 }
 
-.middle {
-      display: flex;
-      justify-content: center;
-}
-.center {
-      width: 5px;
-}
-	
 .left, .right {
       background-color:lightgreen;
       margin: 5px;
