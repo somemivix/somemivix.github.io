@@ -18,6 +18,15 @@ html, body {
  margin: 5px;
 }	
 
+.header {
+	padding: 80px
+	text-align:center;
+	background:08ad0e
+		color:black;
+}
+
+.header h1 {
+	font-size: 40px
 .wrapper {
   background-color: lightblue;
   
@@ -32,7 +41,7 @@ html, body {
   justify-content: center;
 }
 .center {
-  width: 800px;
+  width: 5px;
 }
 .left, .right {
 	background-color:lightgreen;
