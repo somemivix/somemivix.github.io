@@ -20,7 +20,7 @@ html, body {
 
 .wrapper {
        background-color: lightblue;
-       max-width: 100%;
+       max-width: 50%;
        display: flex;
        flex-direction: row;
        height: 80%;
