@@ -43,6 +43,12 @@ html, body {
   justify-content: center;
 }
 
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
 .profile-picture {    
  border-radius: 50%;
 }
