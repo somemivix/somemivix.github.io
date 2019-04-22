@@ -1,18 +1,18 @@
 html, body {
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	height:100%;
-	margin: 0px;
-	padding: 0px;
+display:flex;
+align-items:center;
+justify-content:center;
+height:100%;
+margin: 0px;
+padding: 0px;
 
-	font-family:'Oswald', sans-serif;
-	}
+font-family:'Oswald', sans-serif;
+}
 	
-	.name {
-    font-family: 'Roboto', sans-serif;
-    margin-bottom: 2px;
-	}
+.name {
+ font-family: 'Roboto', sans-serif;
+ margin-bottom: 2px;
+}
 
 .subtitle{
  margin: 5px;
