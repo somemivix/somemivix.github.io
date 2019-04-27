@@ -35,7 +35,6 @@ font-family:'Oswald', sans-serif;
 
 .left, .right {
 	background-color:lightgreen;
-	
 	margin: 5px;
 	max-width: 50%;
 	flex:1;
