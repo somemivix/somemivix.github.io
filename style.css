@@ -9,8 +9,11 @@ padding: 0px;
 font-family:'Oswald', sans-serif;
 }
 
-.tab-bar
- position:absolute
+.w3-bar w3-black {
+ position:absolute;
+ font-family: 'Evogria';
+ margin-bottom: 2px;
+}
 
 .name {
  font-family: 'Roboto', sans-serif;
