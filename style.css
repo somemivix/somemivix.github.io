@@ -51,7 +51,7 @@ font-family:'Oswald', sans-serif;
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  background-color: DodgerBlue;
+  background-color: Chocolate;
 }
 
 .profile-picture {    
