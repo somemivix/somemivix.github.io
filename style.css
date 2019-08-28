@@ -6,6 +6,11 @@ height:100%;
 margin: 0px;
 padding: 0px;
 background-color: green;
+background-image: url(download2.jpg)
+
+.container
+width: 1000px;
+}
 
 font-family:'Oswald', sans-serif;
 }
@@ -47,10 +52,6 @@ font-family:'Oswald', sans-serif;
 .left {
   align-items: center;
   justify-content: center;
-}
-
-.container
-width:1000px;
 }
 
 .flex-container {
