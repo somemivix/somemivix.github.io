@@ -49,6 +49,10 @@ font-family:'Oswald', sans-serif;
   justify-content: center;
 }
 
+.container
+width:1000px;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
