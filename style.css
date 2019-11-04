@@ -14,6 +14,9 @@ font-family:'Oswald', sans-serif;
  position:absolute;
  font-family: 'Evogria', sans-serif;
  margin-bottom: 2px;
+ float: left;
+ display: block;
+ text-decoration: none;
 }
 
 .name {
